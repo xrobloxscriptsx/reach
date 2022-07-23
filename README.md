@@ -1,6 +1,3 @@
--- uk-#9326
-
-
 local active = true
 local trueActive = true
 local reachType = "Sphere"
